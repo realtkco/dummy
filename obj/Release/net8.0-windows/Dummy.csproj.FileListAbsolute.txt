@@ -1,0 +1,16 @@
+C:\Users\wiggy\Desktop\Dummy\Dummy\bin\Release\net8.0-windows\Dummy.exe
+C:\Users\wiggy\Desktop\Dummy\Dummy\bin\Release\net8.0-windows\Dummy.deps.json
+C:\Users\wiggy\Desktop\Dummy\Dummy\bin\Release\net8.0-windows\Dummy.runtimeconfig.json
+C:\Users\wiggy\Desktop\Dummy\Dummy\bin\Release\net8.0-windows\Dummy.dll
+C:\Users\wiggy\Desktop\Dummy\Dummy\bin\Release\net8.0-windows\Dummy.pdb
+C:\Users\wiggy\Desktop\Dummy\Dummy\obj\Release\net8.0-windows\Dummy.Form1.resources
+C:\Users\wiggy\Desktop\Dummy\Dummy\obj\Release\net8.0-windows\Dummy.csproj.GenerateResource.cache
+C:\Users\wiggy\Desktop\Dummy\Dummy\obj\Release\net8.0-windows\Dummy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiggy\Desktop\Dummy\Dummy\obj\Release\net8.0-windows\Dummy.AssemblyInfoInputs.cache
+C:\Users\wiggy\Desktop\Dummy\Dummy\obj\Release\net8.0-windows\Dummy.AssemblyInfo.cs
+C:\Users\wiggy\Desktop\Dummy\Dummy\obj\Release\net8.0-windows\Dummy.csproj.CoreCompileInputs.cache
+C:\Users\wiggy\Desktop\Dummy\Dummy\obj\Release\net8.0-windows\Dummy.dll
+C:\Users\wiggy\Desktop\Dummy\Dummy\obj\Release\net8.0-windows\refint\Dummy.dll
+C:\Users\wiggy\Desktop\Dummy\Dummy\obj\Release\net8.0-windows\Dummy.pdb
+C:\Users\wiggy\Desktop\Dummy\Dummy\obj\Release\net8.0-windows\Dummy.genruntimeconfig.cache
+C:\Users\wiggy\Desktop\Dummy\Dummy\obj\Release\net8.0-windows\ref\Dummy.dll

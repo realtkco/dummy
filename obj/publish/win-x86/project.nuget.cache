@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Twek/R5Zr5l6vt3qBZc4aj6XtJR26ux3u4tZK8OIGkGlSbsk53hCYPnGgCg03oIRkg3tsBaXPq9pNyzVvnWd+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wiggy\\Desktop\\Dummy\\Dummy\\Dummy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wiggy\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\wiggy\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.4\\microsoft.netcore.app.runtime.win-x86.8.0.4.nupkg.sha512",
+    "C:\\Users\\wiggy\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.4\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.4.nupkg.sha512",
+    "C:\\Users\\wiggy\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.4\\microsoft.aspnetcore.app.runtime.win-x86.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
